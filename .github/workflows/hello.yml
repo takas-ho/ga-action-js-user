@@ -7,4 +7,4 @@ jobs:
     name: Hello
     steps:
       - name: Hello
-        uses: github-actions-up-and-running/hello-action@v1.0.0
+        uses: takas-ho/ga-action-js@v1.0.0
